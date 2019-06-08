@@ -1,3 +1,9 @@
+#6/6/2019
+#Sakar Michel
+#Problem: The Challenge
+#Given a string S and a set of words D, find the longest word in D that is a subsequence of S.
+#Link to the problem: https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#!
+
 stringOrder = 'abpplee'
 firstWord = ['able' ,'ale','apple', 'bale', 'kangaroo']
 theLongestWordInCorrectOrder = ''
